@@ -2,6 +2,8 @@
 This repository holds simple Node.JS &amp; Socket.io Real time chatting/messaging application
 
 # Setup
+Firstly pull the whole repo, then open your pc terminal/cmd in project main directory. then run command step by step.
+<br><br>
 
 <code> npm init </code> <br>
 <code> nodemon messaging.js </code>
